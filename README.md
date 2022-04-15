@@ -1,1 +1,1 @@
-# ping-pony-rl
+# 2 Player Ping Pong using Reinforcement Learning
